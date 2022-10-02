@@ -1,0 +1,11 @@
+{
+  "name": "EICO Contributors NFT",
+  "description": "EICO Contributors NFT for 18 Years Anniversary.",
+  "image": "https://ipfs.io/ipfs/bafybeia3sgk5jhed7o3qv5d6g5f42zeplspyav7lm5dh66vuokqqg7gq2q?eico18.mp4",
+  "attributes": [
+    {
+      "trait_type": "tier",
+      "value": "EICO Contributors"
+    }
+  ]
+}
