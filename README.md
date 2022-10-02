@@ -1,13 +1,10 @@
 # Eico NFT Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is for Eico Contributors NFT token, on the occation of Eico 18 years anniversary.
 
-Try running some of the following tasks:
+Some operations for this contract
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+yarn hardhat test
+yarn hardhat deploy --network xxx
 ```
